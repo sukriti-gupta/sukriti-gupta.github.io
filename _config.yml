@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Sukriti Gupta"
+author: "Sukriti Gupta"
+description: "University of California, Los Angeles" #color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,13 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.html", title: "About"}
+  - {file: "README.md", title: "Publications"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:sgupta@psych.ucla.edu"}
+  - {title: Github, icon: github, url: "https://github.com/sukriti-gupta"}
+  - {title: ORCID, icon: orcid, url: "https://orcid.org/0009-0004-5222-4775"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
