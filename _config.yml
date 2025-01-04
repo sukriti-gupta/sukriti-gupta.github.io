@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "pubs.html", title: "Publications"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Google Scholar, icon: google scholar, url: "https://scholar.google.com/citations?user=BBYfBuIAAAAJ&hl=en&authuser=1"}
+  - {title: GoogleScholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=BBYfBuIAAAAJ&hl=en&authuser=1"}
   - {title: Github, icon: github, url: "https://github.com/sukriti-gupta"}
   - {title: ORCID, icon: orcid, url: "https://orcid.org/0009-0004-5222-4775"}
 
